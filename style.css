@@ -3,7 +3,7 @@
 }
 
 body {
-    height: 95dvh;
+    height: calc(100dvh - 1px);
     display: flex;
     flex-direction: column;
     justify-content: center;
